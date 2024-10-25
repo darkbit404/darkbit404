@@ -19,9 +19,11 @@ Currently pursuing my Integrated MTech in Computer Science and Engineering, whic
 Over the years, I’ve worked on several exciting projects that have allowed me to apply my skills in innovative ways. For example:
 
 - **FaceEx:**  Facial Emotion Detection — pandas, numpy, keras, sklearn, opencv
-    Elevated model validation accuracy by over 30% from an initial of 52.15% to 84.06% validation accuracy, utilizing cutting-edge techniques like Batch Normalization and Dropout to maximize model generalization and performance.
+
+  Elevated model validation accuracy by over 30% from an initial of 52.15% to 84.06% validation accuracy, utilizing cutting-edge techniques like Batch Normalization and Dropout to maximize model generalization and performance.
 - **SusAct:**  Federated Learning Approach to Suspicious Activity Detection — numpy, tensorflow, tensorflow-federated, os
-    Achieved a 0.81 Sparse Categorical Accuracy, training across 30 federated clients to simulate real-world non-iid data and the maintaining the heterogeneity in the data distribution by utilizing the federated learning approach.
+
+  Achieved a 0.81 Sparse Categorical Accuracy, training across 30 federated clients to simulate real-world non-iid data and the maintaining the heterogeneity in the data distribution by utilizing the federated learning approach.
 
 ## Interests & Goals
 
