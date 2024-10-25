@@ -18,8 +18,10 @@ Currently pursuing my Integrated MTech in Computer Science and Engineering, whic
 
 Over the years, I’ve worked on several exciting projects that have allowed me to apply my skills in innovative ways. For example:
 
-- **FaceEx:** Developed a deep learning model for facial expression recognition with a high accuracy rate of 89%. This project involved using TensorFlow/Keras and various advanced techniques to achieve reliable results.
-- **PlagCheck:** Created a plagiarism detection tool with an impressive R-squared value of 0.98. This tool compares documents using TF-IDF and cosine similarity, demonstrating my ability to apply machine learning techniques to practical problems.
+- **FaceEx:**  Facial Emotion Detection — pandas, numpy, keras, sklearn, opencv
+    Elevated model validation accuracy by over 30% from an initial of 52.15% to 84.06% validation accuracy, utilizing cutting-edge techniques like Batch Normalization and Dropout to maximize model generalization and performance.
+- **SusAct:**  Federated Learning Approach to Suspicious Activity Detection — numpy, tensorflow, tensorflow-federated, os
+    Achieved a 0.81 Sparse Categorical Accuracy, training across 30 federated clients to simulate real-world non-iid data and the maintaining the heterogeneity in the data distribution by utilizing the federated learning approach.
 
 ## Interests & Goals
 
