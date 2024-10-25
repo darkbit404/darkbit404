@@ -1,6 +1,6 @@
 # Hey there! I’m Pratyush 👋
 
-Welcome to my GitHub profile! I’m a passionate tech enthusiast deeply immersed in the world of Data Science and Machine Learning. Currently, I’m pursuing an Integrated MTech in Computer Science and Engineering at VIT, where I’m continuously exploring and learning about the cutting-edge advancements in technology and data analysis.
+Welcome to my GitHub profile! I’m a passionate tech enthusiast deeply immersed in the world of Data Science and Machine Learning. Currently, I’m pursuing an Integrated MTech in Computer Science and Engineering at VIT, where I’m continuously exploring and learning about the cutting-edge advancements in technology and data science.
 
 ## A Bit About Me
 
