@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast deeply immersed
 
 It's not been very long that I've been captivated by the potential of technology to transform the world. This fascination led me to dive into programming and data science, where I’ve been able to merge my interests with hands-on projects and research. My journey has been one of continuous learning, driven by a desire to understand how data can provide valuable insights and solve complex problems.
 
-Currently pursuing my Integrated MTech in Computer Science and Engineering, which has provided me with a strong foundation in various aspects of technology. My coursework and projects have covered a broad spectrum, including data analysis, machine learning, and software development. This academic experience has been complemented by practical, real-world applications and collaborations that have further enriched my understanding.
+Currently pursuing my Integrated MTech in Computer Science and Engineering, which has provided me with a strong foundation in various aspects of technology. My coursework and projects have covered a broad spectrum, including data analysis, machine learning and Deep lEarning. This academic experience has been complemented by practical, real-world applications and collaborations that have further enriched my understanding.
 
 ## Skills & Expertise
 
