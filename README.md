@@ -10,7 +10,7 @@ Currently pursuing my Integrated MTech in Computer Science and Engineering, whic
 
 ## Skills & Expertise
 
-- **Programming Languages:** Python, Java, R, SQL
+- **Programming Languages:** Python, Javascript, R, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, PyTorch, Scikit-learn, TensorFlow, OpenCV
 - **Tools & Platforms:** Git/GitHub, PowerBI, MS Excel, MongoDB, Linux/Unix
 
