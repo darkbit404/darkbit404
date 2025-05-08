@@ -31,7 +31,7 @@ Over the years, I’ve worked on several exciting projects that have allowed me 
   
   
 - **BrnTmr:**  Federated Learning Approach to Brain Tumor Detection and Recognition — numpy, pytorch, flwr, os
-- 
+
   Implementing a Federated Learning framework for brain tumor detection and recognition, simulating a
   decentralized setup with 5 participating clients to enhance model efficiency, improve generalization, and reduce
   communication costs.
