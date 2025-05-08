@@ -29,7 +29,9 @@ Over the years, I’ve worked on several exciting projects that have allowed me 
   cost. Ongoing reserach on event driven federated learning systems aims to optimize the communicatin costs even further as the model updates are shared only 
   when a certain defined trigerring event is detected.
   
+  
 - **BrnTmr:**  Federated Learning Approach to Brain Tumor Detection and Recognition — numpy, pytorch, flwr, os
+- 
   Implementing a Federated Learning framework for brain tumor detection and recognition, simulating a
   decentralized setup with 5 participating clients to enhance model efficiency, improve generalization, and reduce
   communication costs.
